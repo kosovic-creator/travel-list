@@ -1,4 +1,4 @@
-'use client';
+
 export default function Item({ item, onDeleteItem, onToggleItem }) {
   return (
     <li>
